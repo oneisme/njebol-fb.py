@@ -50,8 +50,8 @@ terminalroot = '''   +========================================================+
 
 def lista_senhas():
 
-	user = raw_input(verde + "\n [+] Digite seu e-mail: ")
-	lista_senhas = raw_input(verde + "\n [+] Digite sua lista de senhas: ")
+	user = raw_input(verde + "\n [+] email fb target: ")
+	lista_senhas = raw_input(verde + "\n [+] Racikan paswed gaweanmu: ")
 
 	lista_senhas = open(lista_senhas, "r")
 
