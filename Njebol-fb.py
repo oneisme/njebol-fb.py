@@ -28,13 +28,13 @@ logo = '''
 
 menu = '''
 	      +================================================+
-	      |         ATAQUE FORÇA BRUTA NO FACEBOOK         |
+	      |         JURUS NJEBOL FACEBOOK         |
 	      +================================================+
-	      | ☠ Programador: Squeeze                         |
-	      | ☠ Contato: @SqueezeSec (Telegram)              |
-	      | ☠ Data: 05/06/2017                             |
-	      | ☠ Canal: telegram.me/TerminalRoot404           |
-	      | ☠ Pagina: facebook.com/TerminalRoot404         |
+	      | ☠ Dukune: godeyes                         |
+	      | ☠ Nak arep kenal: @godeyes (Telegram)              |
+	      | ☠ Tanggal saiki: 29/03/2018                             |
+	      | ☠ Nak arep rene: telegram.me/TerminalRoot404           |
+	      | ☠ Alamat gubugku: facebook.com/TerminalRoot404         |
 	      +================================================+
 	      |             ☠ ŧєrмiηαł røøŧ 404 ☠              |
 	      +================================================+
